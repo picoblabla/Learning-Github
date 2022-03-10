@@ -3,3 +3,6 @@ I'm Antonio
 I'm Italian
 This is my greeting!
 I'm a teacher at ITTS Belluzzi
+I'm a teacher.
+I'm 40 years old.
+
